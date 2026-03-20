@@ -30,3 +30,5 @@ name; Boris; book; Black Holes; 1999; 500;
 name; Boris; book; Quantum Mechanics; 1995; 900;
 name; Boris; book; Aerodynamics; 2009; 800;
 name; Boris; book; Nuclear Physics; 2011; 1400;
+name; Boris; book; Space Exploration; 2014; 1500;
+
