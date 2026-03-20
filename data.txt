@@ -1,0 +1,32 @@
+name; Misha; book; Belial; 1991; 800;
+name; Misha; book; Demon; 2000; 1000;
+name; Misha; book; Angel; 1998; 600;
+name; Misha; book; Lucifer; 2007; 400;
+name; Misha; book; Heaven and Hell; 1800; 700;
+name; Misha; book; Hell's Night; 2010; 500;
+
+name; Sasha; book; Paradise; 2020; 1000;
+name; Sasha; book; Heaven's Guilt; 2024; 800;
+name; Sasha; book; Kill the Master; 1998; 400;
+name; Sasha; book; World War Three; 2025; 300;
+name; Sasha; book; World's Religions; 1999; 500;
+name; Sasha; book; Sleep with the Bible; 2001; 400;
+
+name; Dasha; book; War of the Worlds; 2002; 900;
+name; Dasha; book; Star Wars; 1998; 500;
+name; Dasha; book; Star Games; 2004; 600;
+name; Dasha; book; The Matrix; 2023; 500;
+name; Dasha; book; Star Craft; 2001; 800;
+
+name; Grisha; book; Calculus; 2008; 1500;
+name; Grisha; book; Linear Algebra; 2004; 800;
+name; Grisha; book; Trigonometry; 2014; 1200;
+name; Grisha; book; Abstract Mathematics; 1993; 800;
+name; Grisha; book; Differential Equations; 2002; 700;
+
+name; Boris; book; The Elegant Universe; 2002; 800;
+name; Boris; book; Theory of Relativity; 1994; 700;
+name; Boris; book; Black Holes; 1999; 500;
+name; Boris; book; Quantum Mechanics; 1995; 900;
+name; Boris; book; Aerodynamics; 2009; 800;
+name; Boris; book; Nuclear Physics; 2011; 1400;
